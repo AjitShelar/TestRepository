@@ -13,7 +13,7 @@ function App() {
   },
   {
     name:"Shoes",
-    price:20000,
+    price:20058,
     quantity:0
   }
 ];
